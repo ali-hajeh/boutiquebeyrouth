@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/boutiquebeyrouth/static/css/main.de9dd1de.chunk.css",
+    "main.js": "/boutiquebeyrouth/static/js/main.73e1ea2f.chunk.js",
+    "main.js.map": "/boutiquebeyrouth/static/js/main.73e1ea2f.chunk.js.map",
+    "runtime-main.js": "/boutiquebeyrouth/static/js/runtime-main.8623e0bb.js",
+    "runtime-main.js.map": "/boutiquebeyrouth/static/js/runtime-main.8623e0bb.js.map",
+    "static/js/2.66e51109.chunk.js": "/boutiquebeyrouth/static/js/2.66e51109.chunk.js",
+    "static/js/2.66e51109.chunk.js.map": "/boutiquebeyrouth/static/js/2.66e51109.chunk.js.map",
+    "index.html": "/boutiquebeyrouth/index.html",
+    "precache-manifest.e60dc196359aaafd5fc2300104959b3f.js": "/boutiquebeyrouth/precache-manifest.e60dc196359aaafd5fc2300104959b3f.js",
+    "service-worker.js": "/boutiquebeyrouth/service-worker.js",
+    "static/css/main.de9dd1de.chunk.css.map": "/boutiquebeyrouth/static/css/main.de9dd1de.chunk.css.map",
+    "static/js/2.66e51109.chunk.js.LICENSE.txt": "/boutiquebeyrouth/static/js/2.66e51109.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/boutiquebeyrouth/static/media/1.c0fc8592.jpg",
+    "static/media/style.scss": "/boutiquebeyrouth/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/boutiquebeyrouth/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/boutiquebeyrouth/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/boutiquebeyrouth/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/boutiquebeyrouth/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/boutiquebeyrouth/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/boutiquebeyrouth/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/logo.png": "/boutiquebeyrouth/static/media/logo.00127edc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8623e0bb.js",
+    "static/js/2.66e51109.chunk.js",
+    "static/css/main.de9dd1de.chunk.css",
+    "static/js/main.73e1ea2f.chunk.js"
+  ]
+}
